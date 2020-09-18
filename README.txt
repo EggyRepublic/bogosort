@@ -5,4 +5,4 @@ hope you enjoy
 
 just don't plug in too big of a number
 
-to execute in Linux command line, do ./<filename> <number of bars>
+It takes one argument which is the size of array, so basically <filename> <integer>
